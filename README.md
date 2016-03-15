@@ -2,4 +2,4 @@
 VirtualRealitySource
 
 
-This is just a small attempt, it's fun, if you never try this,it maybe help you.
+This's just a small attempt, it's fun, if you never try this,maybe it'll help you.
